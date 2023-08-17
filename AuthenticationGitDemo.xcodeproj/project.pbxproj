@@ -12,6 +12,7 @@
 		ABD202932A8DFEBB00230BE9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABD202912A8DFEBB00230BE9 /* Main.storyboard */; };
 		ABD202952A8DFEBC00230BE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABD202942A8DFEBC00230BE9 /* Assets.xcassets */; };
 		ABD202982A8DFEBC00230BE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABD202962A8DFEBC00230BE9 /* LaunchScreen.storyboard */; };
+		ABD202A02A8E0ECE00230BE9 /* RegistirationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABD2029F2A8E0ECE00230BE9 /* RegistirationVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		ABD202942A8DFEBC00230BE9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABD202972A8DFEBC00230BE9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ABD202992A8DFEBC00230BE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABD2029F2A8E0ECE00230BE9 /* RegistirationVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistirationVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				ABD2028B2A8DFEBB00230BE9 /* AppDelegate.swift */,
 				ABD2028F2A8DFEBB00230BE9 /* ViewController.swift */,
+				ABD2029F2A8E0ECE00230BE9 /* RegistirationVC.swift */,
 				ABD202912A8DFEBB00230BE9 /* Main.storyboard */,
 				ABD202942A8DFEBC00230BE9 /* Assets.xcassets */,
 				ABD202962A8DFEBC00230BE9 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				ABD202902A8DFEBB00230BE9 /* ViewController.swift in Sources */,
 				ABD2028C2A8DFEBB00230BE9 /* AppDelegate.swift in Sources */,
+				ABD202A02A8E0ECE00230BE9 /* RegistirationVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
